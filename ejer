@@ -1,0 +1,249 @@
+{
+    "sensores": [
+
+
+        {
+        "id": 1,
+        "Ubicacion": "Centro",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:00",
+        "Temperatura": 25.3,
+        "Humedad": 55.2,
+        "Indice_UV": 5.2,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 12.3
+        
+    },
+
+    {
+        "id": 2,
+        "Ubicacion": "Nueva Córdoba",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:05",
+        "Temperatura": 26.1,
+        "Humedad": 52.8,
+        "Indice_UV": 5.5,
+        "Precipitaciones": 0.2,
+        "Velocidad_viento": 10.8
+     },
+     
+    {
+        "id": 3,
+        "Ubicacion": "Alta Córdoba",
+        "Estado": "inactivo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:10",
+        "Temperatura": 24.7,
+        "Humedad": 58.4,
+        "Indice_UV": 4.8,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 8.9
+      },
+      {
+        "id": 4,
+        "Ubicacion": "Villa Belgrano",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:15",
+        "Temperatura": 23.9,
+        "Humedad": 60.1,
+        "Indice_UV": 4.5,
+        "Precipitaciones": 1.2,
+        "Velocidad_viento": 15.3
+      },
+      {
+        "id": 5,
+        "Ubicacion": "San Vicente",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:20",
+        "Temperatura": 27.0,
+        "Humedad": 50.3,
+        "Indice_UV": 6.1,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 9.5
+      },
+      {
+        "id": 6,
+        "Ubicacion": "General Paz",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:25",
+        "Temperatura": 22.8,
+        "Humedad": 65.7,
+        "Indice_UV": 3.9,
+        "Precipitaciones": 2.4,
+        "Velocidad_viento": 7.2
+      },
+      {
+        "id": 7,
+        "Ubicacion": "Urca",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:30",
+        "Temperatura": 26.3,
+        "Humedad": 54.0,
+        "Indice_UV": 5.9,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 11.4
+      },
+      {
+        "id": 8,
+        "Ubicacion": "Centro",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:35",
+        "Temperatura": 24.5,
+        "Humedad": 57.6,
+        "Indice_UV": 4.7,
+        "Precipitaciones": 0.5,
+        "Velocidad_viento": 10.1
+      },
+      {
+        "id": 9,
+        "Ubicacion": "Nueva Córdoba",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:40",
+        "Temperatura": 25.9,
+        "Humedad": 52.1,
+        "Indice_UV": 5.4,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 12.7
+      },
+      {
+        "id": 10,
+        "Ubicacion": "Alta Córdoba",
+        "Estado": "inactivo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:45",
+        "Temperatura": 23.4,
+        "Humedad": 61.2,
+        "Indice_UV": 4.1,
+        "Precipitaciones": 1.0,
+        "Velocidad_viento": 9.3
+      },
+      {
+        "id": 11,
+        "Ubicacion": "Villa Belgrano",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:50",
+        "Temperatura": 24.2,
+        "Humedad": 59.0,
+        "Indice_UV": 4.3,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 14.1
+      },
+      {
+        "id": 12,
+        "Ubicacion": "San Vicente",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "14:55",
+        "Temperatura": 26.7,
+        "Humedad": 51.5,
+        "Indice_UV": 6.0,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 8.7
+      },
+      {
+        "id": 13,
+        "Ubicacion": "General Paz",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "15:00",
+        "Temperatura": 23.0,
+        "Humedad": 63.4,
+        "Indice_UV": 3.8,
+        "Precipitaciones": 1.8,
+        "Velocidad_viento": 6.9
+      },
+      {
+        "id": 14,
+        "Ubicacion": "Urca",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "15:05",
+        "Temperatura": 25.8,
+        "Humedad": 53.2,
+        "Indice_UV": 5.3,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 11.8
+      },
+      {
+        "id": 15,
+        "Ubicacion": "Centro",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "15:10",
+        "Temperatura": 24.7,
+        "Humedad": 56.3,
+        "Indice_UV": 4.6,
+        "Precipitaciones": 0.3,
+        "Velocidad_viento": 9.9
+      },
+      {
+        "id": 16,
+        "Ubicacion": "Nueva Córdoba",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "15:15",
+        "Temperatura": 26.4,
+        "Humedad": 52.5,
+        "Indice_UV": 5.7,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 10.6
+      },
+      {
+        "id": 17,
+        "Ubicacion": "Alta Córdoba",
+        "Estado": "inactivo",
+        "Fecha": "2025-03-27",
+        "Hora": "15:20",
+        "Temperatura": 23.2,
+        "Humedad": 60.5,
+        "Indice_UV": 4.2,
+        "Precipitaciones": 0.9,
+        "Velocidad_viento": 7.8
+      },
+      {
+        "id": 18,
+        "Ubicacion": "Villa Belgrano",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "15:25",
+        "Temperatura": 24.0,
+        "Humedad": 58.7,
+        "Indice_UV": 4.4,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 13.5
+      },
+      {
+        "id": 19,
+        "Ubicacion": "San Vicente",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "15:30",
+        "Temperatura": 26.9,
+        "Humedad": 50.9,
+        "Indice_UV": 6.2,
+        "Precipitaciones": 0.0,
+        "Velocidad_viento": 9.1
+      },
+      {
+        "id": 20,
+        "Ubicacion": "General Paz",
+        "Estado": "activo",
+        "Fecha": "2025-03-27",
+        "Hora": "15:35",
+        "Temperatura": 22.5,
+        "Humedad": 64.2,
+        "Indice_UV": 3.7,
+        "Precipitaciones": 2.1,
+        "Velocidad_viento": 7.0
+      }
+    ]
+  }
